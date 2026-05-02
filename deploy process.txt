@@ -1,0 +1,7 @@
+git hub pe code push krege website ka..
+action tab me jake code type krege automate karne ke liye jo readme file se mil sakta hai..
+S3 bucket bnayege
+IAM ke andar user bnayege and uski access key or secret access key ko git hub ki settings me jake save kr dege..
+action tab me jake start commit kr dege or aapki files git hub se S3 bucket me chali jaygi. 
+properties me jake policies edit krke usme s3 bucket policy edit kr dege. 
+and finally website  run kar jaygi.
